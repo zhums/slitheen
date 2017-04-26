@@ -1,0 +1,1 @@
+tshark -q -zio,phs -Xlua_script:ssl_stats.lua -r regular_capture.pcap

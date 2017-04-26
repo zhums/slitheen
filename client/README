@@ -1,0 +1,18 @@
+To install:
+
+make openssl (cbocovic/slitheen version)
+copy path to include files and libraries to makefile
+
+make phantomjs (cbocovic/slitheen version)
+move it to this directory
+
+run make
+
+make
+
+To run:
+
+$./socks
+$./ous.sh
+
+set web browser proxy to send to localhost:1080
